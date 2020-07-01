@@ -1,0 +1,47 @@
+{
+  "full_name": "Barack Obama",
+  "profession": "Former President of the United States of America",
+  "address": "Washington D.C. Metro Area",
+  "connections": "500+ connections",
+  "university": [
+    "Harvard University",
+    "Columbia University in the City of New York",
+    "Occidental College"
+  ],
+  "websites": [],
+  "experience": [
+    {
+      "experience_title": "President",
+      "experience_subtitle": "United States of America",
+      "experience_date_range": "Jan 2009  –  Jan 2017",
+      "experience_duration": "8 years 1 month"
+    },
+    {
+      "experience_title": "US Senator",
+      "experience_subtitle": "US Senate (IL-D)",
+      "experience_date_range": "Jan 2005  –  Nov 2008",
+      "experience_duration": "3 years 11 months"
+    },
+    {
+      "experience_title": "State Senator",
+      "experience_subtitle": "Illinois State Senate",
+      "experience_date_range": "1997  –  2004",
+      "experience_duration": "7 years"
+    },
+    {
+      "experience_title": "Senior Lecturer in Law",
+      "experience_subtitle": "University of Chicago Law School",
+      "experience_date_range": "1993  –  2004",
+      "experience_duration": "11 years"
+    }
+  ],
+  "degrees": [
+    "Juris Doctor",
+    "Law",
+    "Bachelor of Arts",
+    "Political Science, concentration in International Relations",
+    "Political Science"
+  ],
+  "skills": [],
+  "summary": "“It falls to each of us to be those anxious, jealous guardians of our democracy; to embrace the joyous task we’ve been given to continually try to improve this great nation of ours.  Because for all our outward differences, we all share the same proud title:  Citizen.” https://barackobama.com/ https://obamawhitehouse.archives.gov/"
+}
